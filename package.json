@@ -1,0 +1,26 @@
+{
+  "name": "code-coverage-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidumiso24/Code-Coverage-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidumiso24/Code-Coverage-Learning/issues"
+  },
+  "homepage": "https://github.com/sidumiso24/Code-Coverage-Learning#readme",
+  "dependencies": {
+    "yarn": "^1.22.21"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
